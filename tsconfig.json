@@ -24,12 +24,13 @@
     }
   },
   "include": [
-    "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx",
-    ".next/types/**/*.ts",
-    "app/lib/placeholder-data.ts",
-    "scripts/seed.js"
-  ],
+      "next-env.d.ts",
+      "**/*.ts",
+      "**/*.tsx",
+      ".next/types/**/*.ts",
+      "app/dashboard/(overview)/loading.tsx", // Add the correct path to the file
+      "app/lib/placeholder-data.ts",
+      "scripts/seed.js"
+    ],
   "exclude": ["node_modules"]
 }
