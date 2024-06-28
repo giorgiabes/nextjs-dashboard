@@ -1,1 +1,1 @@
-https://nextjs-dashboard-five-rho-92.vercel.app/
+nextjs-dashboard-qyogwm4ck-giorgiabes-projects.vercel.app
